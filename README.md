@@ -5,6 +5,7 @@ It is user specific app, which mean a user can track their habit, and mark it as
 The project is built using a tech stack consisting of Node.js for the server-side scripting.
 Express for handling HTTP requests and routing.
 MongoDB for storing and managing the data and EJS for rendering the views and templates.
+Here You can check it - https://habit-tracker-ajayprata.onrender.com
 
 ## Installation
 To run this application on your local machine, please follow these steps:
