@@ -12,7 +12,7 @@ To run this application on your local machine, please follow these steps:
 
 Clone this repository using the following command:
 ```
-$ git clone https://github.com/gamerspirit/Habit_Tracker.git
+$ git clone https://github.com/Ajaypratap4015/Habit_Tracker.git
 ```
 Install the required dependencies using the following command:
 ```
